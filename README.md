@@ -192,14 +192,22 @@ Then re-deploy Helm charts using the same process as above.
 ## 🖼 Screenshots
 
 > Added screenshots of the local app, pods, services, Helm status, Jenkins pipeline, and EKS deployment here for better understanding.
-> Local Deployemnt
+
+>  Local Deployemnt
 > ![Screenshot 2025-04-06 061216](https://github.com/user-attachments/assets/916abbb6-b4d9-41d1-96ff-ac1e992c4378)
+
+> Pods
+![image](https://github.com/user-attachments/assets/6f5f063d-63bb-47b3-b828-407a20103c23)
+
 Docker images
 > ![Screenshot 2025-04-06 070706](https://github.com/user-attachments/assets/a7f44702-f13b-4e7a-9559-13051a05cba7)
 
 Helm Status
 > ![Screenshot 2025-04-19 225231](https://github.com/user-attachments/assets/3b31b82c-35d6-412d-b42d-897c231ffbfd)
+
 > Jnekin Pipeline
+> ![Screenshot 2025-04-19 215138](https://github.com/user-attachments/assets/25c66c03-8d67-4057-bef3-b2a809debd50)
+
 > EKS deployemnt
   ![Screenshot 2025-04-19 215723](https://github.com/user-attachments/assets/79ab0bde-36d3-4c61-aa3a-45eb5ecaa14e)
 > ![Screenshot 2025-04-19 214106](https://github.com/user-attachments/assets/6dee3231-277b-403d-9566-8bc3d56cb8c8)
