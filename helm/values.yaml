@@ -1,0 +1,11 @@
+namespaces:
+  backend: learner-report-backend
+  database: learner-report-db
+
+mongodb:
+  image: mongo
+  tags: latest
+  storage: 2Gi
+  path: /mnt/data
+  port: 27017
+  containerName: learner-report-db
